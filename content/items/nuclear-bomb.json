@@ -1,0 +1,15 @@
+{
+    "cost": 1,
+    "hardness": 1,
+    "explosiveness": 560,
+    "charge": 1,
+    "color": "65d50f",
+    "research": {
+    "parent": "thorium-bullet",
+    "requirements": [
+    "thorium/10",
+    "lead/5",
+    "copper/5"
+  ]
+  }
+}

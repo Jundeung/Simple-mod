@@ -1,0 +1,45 @@
+{
+    "type": "GenericCrafter",
+    "size": 10,
+    "hasPower": true,
+    "hasItems": true,
+    "itemCapacity": 1500,
+    "craftEffect": {
+        "type": "ParticleEffect",
+        "lifetime": 150,
+        "length": 16,
+        "colorTo": "7382f0"
+    },
+    "flameColor": "90a2fc",
+    "consumes": {
+        "power": 1000,
+        "items": {
+            "items": [
+                "copper/790",
+                "lead/190",
+                "plastanium/250",
+                "phase-fabric/10",
+                "surge-alloy/10",
+                "metaglass/10",
+                "spore-pod/10",
+                "blast-compound/190",
+                "pyratite/10",
+                "sand/50",
+                "coal/10",
+                "titanium/10",
+                "thorium/900",
+                "scrap/20",
+                "silicon/48",
+            ]
+        }
+    },
+    "craftTime": 15,
+    "outputItem": "nuclear-bomb/1",
+    "category": "crafting",
+    "research": "duo",
+    "requirements": [
+        "copper/100",
+        "lead/800",
+        "scrap/200"
+    ]
+}
