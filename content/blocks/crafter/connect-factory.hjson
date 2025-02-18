@@ -20,7 +20,7 @@
         }
     },
     "craftTime": 10,
-    "outputItem": "thorium-bullet/5",
+    "outputItem": "connect/5",
     "category": "crafting",
     "research": "duo",
     "requirements": [
