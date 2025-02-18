@@ -44,7 +44,7 @@
         "pyratite/30"
     ],
     "category": "turret",
-    "research": {
+    "research": { // TODO: 수정 필요
         "parent": "duo",
         "requirements": [
             "copper/70"

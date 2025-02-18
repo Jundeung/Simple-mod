@@ -1,6 +1,6 @@
 {
     "type": "GenericCrafter",
-    "size": 2,
+    "size": 1,
     "health": 470,
     "hasPower": true,
     "hasItems": true,
@@ -15,15 +15,16 @@
         "power": 1.25,
         "items": {
             "items": [
-                "copper/10"
+                "lead-bullet/5",
+                "copper/1"
             ]
         }
     },
-    "craftTime": 40,
-    "outputItem": "big-one-bullet/1",
+    "craftTime": 10,
+    "outputItem": "connect-bullet/5",
     "category": "crafting",
-    "research": "duo", // research: { parent: "duo" requirements: [ ... ] } 아니었나??
-    "requirements": [ // TODO: 수정 필요
+    "research": "duo",
+    "requirements": [
         "copper/100",
         "lead/800",
         "scrap/200"
