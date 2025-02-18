@@ -1,6 +1,7 @@
 {
     "type": "GenericCrafter",
     "size": 1,
+    "health": 470,
     "hasPower": true,
     "hasItems": true,
     "craftEffect": {
