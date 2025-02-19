@@ -32,7 +32,7 @@
             "shootEffect": "shootPyraFlame",
             "hitEffect": "blastExplosion"
     },
-        "connect": {
+        "connect-bullet": {
             "status": "blasted",
             "statusDuration": "10",
             "reflectable": false,
