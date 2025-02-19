@@ -10,18 +10,18 @@
         "length": 8,
         "colorTo": "7382f0"
     },
-    "flameColor": "90a2fc",
+    "flameColor": "b4b7e3",
     "consumes": {
         "power": 1.25,
         "items": {
             "items": [
-                "copper/1",
-                "lead/1"
+                "lead-bullet/5",
+                "copper/1"
             ]
         }
     },
-    "craftTime": 5,
-    "outputItem": "lead-bullet/3",
+    "craftTime": 10,
+    "outputItem": "connect-bullet/5",
     "category": "crafting",
     "research": "duo",
     "requirements": [

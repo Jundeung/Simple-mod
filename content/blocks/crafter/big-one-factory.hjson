@@ -1,6 +1,7 @@
 {
     "type": "GenericCrafter",
     "size": 2,
+    "health": 470,
     "hasPower": true,
     "hasItems": true,
     "craftEffect": {
@@ -21,8 +22,8 @@
     "craftTime": 40,
     "outputItem": "big-one-bullet/1",
     "category": "crafting",
-    "research": "duo",
-    "requirements": [
+    "research": "duo", // research: { parent: "duo" requirements: [ ... ] } 아니었나??
+    "requirements": [ // TODO: 수정 필요
         "copper/100",
         "lead/800",
         "scrap/200"
